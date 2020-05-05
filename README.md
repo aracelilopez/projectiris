@@ -7,7 +7,7 @@
 
 <p align ="center">Histogramas de las distintas variables,genera un csv en cuál posee información de cada una de ellas, además se obtiene un archivo PDF donde está todos los gráficos. Se corre con Python3 y se deberá tener los siguientes módulos: matplotlib.pyplot, pandas, csv y PyPDF2 </p>
 
-Las siguientes imagenes son de muestras.
+Las siguiente imagen es de muestra.
 
 ![alt text](https://github.com/aracelilopez/projectiris/blob/master/img.png)
 
